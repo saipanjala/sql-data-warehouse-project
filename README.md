@@ -25,7 +25,9 @@ SQL Development
 Data Engineering
 Data Modeling
 
-Datasets: Access to the project dataset (csv files).
+**Datasets:**
+
+Access to the project dataset (csv files).
 SQL Server Express: Lightweight server for hosting your SQL database.
 SQL Server Management Studio (SSMS): GUI for managing and interacting with databases.
 Git Repository: Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
@@ -42,11 +44,14 @@ Develop a modern data warehouse using SQL Server to consolidate sales data
 **Specifications**
 
 Data Sources: Import data from two source systems (ERP and CRM) provided as CSV files.
+
 Data Quality: Cleanse and resolve data quality issues prior to analysis.
+
 Integration: Combine both sources into a single, user-friendly data model designed for analytical queries.
+
 Scope: Focus on the latest dataset only; historization of data is not required.
+
 Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
-BI: Analytics & Reporting (Data Analysis)
 
 **📂 Repository Structure**
 
