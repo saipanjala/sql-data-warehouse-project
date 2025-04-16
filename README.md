@@ -1,9 +1,9 @@
-Data Warehouse and Analytics Project
-Welcome to the Data Warehouse and Analytics Project repository! 🚀
+**Data Warehouse Project
+Welcome to the Data Warehouse and Analytics Project repository! 🚀**
 
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
-🏗️ Data Architecture
+**🏗️ Data Architecture**
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers: Data Architecture
 
 Bronze Layer: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
@@ -30,7 +30,7 @@ DrawIO: Design data architecture, models, flows, and diagrams.
 Notion: Get the Project Template from Notion
 Notion Project Steps: Access to All Project Phases and Tasks.
 
-🚀 Project Requirements
+**🚀 Project Requirements**
 Building the Data Warehouse (Data Engineering)
 Objective
 Develop a modern data warehouse using SQL Server to consolidate sales data
@@ -43,7 +43,7 @@ Scope: Focus on the latest dataset only; historization of data is not required.
 Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 BI: Analytics & Reporting (Data Analysis)
 
-📂 Repository Structure
+**📂 Repository Structure**
 data-warehouse-project/
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
@@ -69,5 +69,5 @@ data-warehouse-project/
 └── requirements.txt                    # Dependencies and requirements for the project
 ☕ Stay Connected
 
-🌟 About Me
+**🌟 About Me**
 Hi there! I'm Saikumar Panjala. I’m an IT professional with 3.5 years of experience
